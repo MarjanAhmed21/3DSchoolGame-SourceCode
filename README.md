@@ -1,2 +1,3 @@
-# 3DSchoolGame-SourceCode
-All the c# files used in my 3D School Game Demo I developed on Unity! View the README for link to download this game on Itch.io
+# How to DOWNLOAD game
+Visit the link below to view & download this game from Itch.io
+https://marjanahmed21.itch.io/3d-school-demo-download
